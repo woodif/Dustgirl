@@ -1,0 +1,16 @@
+{
+  "codename": "tong2",
+  "ttf_path": "\\assets\\Kanit-Bold.ttf",
+  "bin_path": "\\assets\\ui_font_tong2.bin",
+  "c_path": "\\assets\\ui_font_tong2.c",
+  "cfg_path": "\\assets\\ui_font_tong2.fcfg",
+  "size": 20,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "tttt",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

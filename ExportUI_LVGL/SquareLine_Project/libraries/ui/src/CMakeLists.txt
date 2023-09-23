@@ -1,0 +1,19 @@
+SET(SOURCES screens/ui_Screen1.c
+    ui.c
+    ui_helpers.c
+    images/ui_img_1478231838.c
+    images/ui_img_98644310.c
+    images/ui_img_11_png.c
+    images/ui_img_98642260.c
+    images/ui_img_98636887.c
+    images/ui_img_98647633.c
+    images/ui_img_98646608.c
+    images/ui_img_98641235.c
+    images/ui_img_98648658.c
+    images/ui_img_98651997.c
+    images/ui_img_1986391116.c
+    fonts/ui_font_tong.c
+    fonts/ui_font_tong2.c
+    fonts/ui_font_tong3.c)
+
+add_library(ui ${SOURCES})
